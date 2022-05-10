@@ -1,0 +1,18 @@
+{
+    "short_name": "Work Timer",
+    "name": "Work Break Timer",
+    "version":"0.0.3",
+    "manifest_version":3,
+    "icons":{
+        "16":"assets/image/logo.png",
+        "48":"assets/image/logo.png",
+        "128":"assets/image/logo.png"
+    },
+    "action":{
+        "default_popup":"src/index.html"
+    },
+    "permissions":["storage", "alarms"],
+    "background":{
+        "service_worker":"src/background.js"
+    }
+}
