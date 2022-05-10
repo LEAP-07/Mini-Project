@@ -1,0 +1,23 @@
+{
+  "name": "Quick Access",
+  "description": "It gives quick access to your important links",
+  "version": "0.1",
+  "manifest_version": 3,
+   "action": {
+    "default_popup": "src/index.html"
+  },
+    "icons": {
+    "16": "Assets/Image/Icon.png",
+    "32": "Assets/Image/Icon.png",
+    "48": "Assets/Image/Icon.png",
+    "128": "Assets/Image/Icon.png"
+  },
+  "options_ui":{
+    "page":"src/option.html",
+    "open_in_tab":false
+  }
+  ,
+  "permissions":[
+    "activeTab"
+  ]
+}
