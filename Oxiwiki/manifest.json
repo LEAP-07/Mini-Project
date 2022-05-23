@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "OxiWiki",
+  "version": "0",
+
+  "action": {},
+  "description": "A plain text description",
+  "icons": {},
+
+  "author": "Mohit Gupta"
+
+}
