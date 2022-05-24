@@ -3,10 +3,17 @@
   "name": "OxiWiki",
   "version": "0",
 
-  "action": {},
-  "description": "A plain text description",
-  "icons": {},
+  "action": {
+    "default_popup": "src/index.html"
+  },
 
-  "author": "Mohit Gupta"
+  "description": "A plain text description",
+  
+  "icons": {
+    "16": "assets/image/logo.png",
+    "48": "assets/image/logo.png",
+    "128": "assets/image/logo.png"
+  }
+  
 
 }

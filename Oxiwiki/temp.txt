@@ -1,0 +1,8 @@
+"icons": {
+    "16": "assets/image/logo.png",
+    "48": "assets/image/logo.png",
+    "128": "assets/image/logo.png"
+  }
+
+
+"author": ""
